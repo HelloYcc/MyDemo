@@ -108,7 +108,6 @@ public class HbaseUtils {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
     public static void showFilter(Filter filter){
